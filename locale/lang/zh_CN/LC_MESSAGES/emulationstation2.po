@@ -68,10 +68,10 @@ msgid "enter path to fanart"
 msgstr "输入同人作品路径"
 
 msgid "Title shot"
-msgstr ""
+msgstr "截图"
 
 msgid "enter path to title shot"
-msgstr ""
+msgstr "输入截图路径"
 
 msgid "Manual"
 msgstr "手册"
