@@ -68,10 +68,10 @@ msgid "enter path to fanart"
 msgstr "输入同人作品路径"
 
 msgid "Title shot"
-msgstr ""
+msgstr "截图"
 
 msgid "enter path to title shot"
-msgstr ""
+msgstr "输入截图路径"
 
 msgid "Manual"
 msgstr "手册"
@@ -86,28 +86,28 @@ msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Cartridge"
-msgstr ""
+msgstr "Cartridge"
 
 msgid "enter path to cartridge"
-msgstr ""
+msgstr "输入Cartridge路径"
 
 msgid "Alt BoxArt"
-msgstr ""
+msgstr "Alt BoxArt"
 
 msgid "enter path to alt boxart"
-msgstr ""
+msgstr "输入Alt BoxArt路径"
 
 msgid "Wheel"
-msgstr ""
+msgstr "wheel"
 
 msgid "enter path to wheel"
-msgstr ""
+msgstr "输入wheel路径"
 
 msgid "Mix"
-msgstr ""
+msgstr "杂项"
 
 msgid "enter path to mix"
-msgstr ""
+msgstr "输入杂项路径"
 
 msgid "Rating"
 msgstr "评分"
