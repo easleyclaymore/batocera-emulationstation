@@ -50,7 +50,7 @@ msgid "enter path to video"
 msgstr "输入视频路径"
 
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 msgid "enter path to logo"
 msgstr "输入LOGO路径"
@@ -68,10 +68,10 @@ msgid "enter path to fanart"
 msgstr "输入同人作品路径"
 
 msgid "Title shot"
-msgstr ""
+msgstr "标题速览"
 
 msgid "enter path to title shot"
-msgstr ""
+msgstr "输入标题速览路径"
 
 msgid "Manual"
 msgstr "手册"
@@ -86,28 +86,28 @@ msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Cartridge"
-msgstr ""
+msgstr "Cartridge"
 
 msgid "enter path to cartridge"
-msgstr ""
+msgstr "输入Cartridge路径"
 
 msgid "Alt BoxArt"
-msgstr ""
+msgstr "Alt BoxArt"
 
 msgid "enter path to alt boxart"
-msgstr ""
+msgstr "输入Alt BoxArt路径"
 
 msgid "Wheel"
-msgstr ""
+msgstr "Wheel"
 
 msgid "enter path to wheel"
-msgstr ""
+msgstr "输入Wheel路径"
 
 msgid "Mix"
-msgstr ""
+msgstr "杂项"
 
 msgid "enter path to mix"
-msgstr ""
+msgstr "输入杂项路径"
 
 msgid "Rating"
 msgstr "评分"
